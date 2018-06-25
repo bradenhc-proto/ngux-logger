@@ -15,6 +15,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "logger": [
+        "dist/logger"
+      ],
+      "logger/*": [
+        "dist/logger/*"
+      ]
+    }
   }
 }
