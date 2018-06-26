@@ -1,6 +1,27 @@
 {
-  "name": "logger",
-  "version": "0.0.1",
+  "name": "@ngux/logger",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Braden Hitchcock",
+    "email": "developer.hitchcock@gmail.com"
+  },
+  "keywords": [
+    "logger",
+    "angular 6",
+    "angular",
+    "ngux",
+    "log",
+    "logging utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradenhitchcock/ngux-logger.git"
+  },
+  "homepage": "https://github.com/bradenhitchcock/ngux-logger",
+  "bugs": {
+    "url": "https://github.com/bradenhitchcock/ngux-logger/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
